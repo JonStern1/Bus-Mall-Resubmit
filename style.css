@@ -1,0 +1,38 @@
+body {
+  width: 90%
+  margin: 0 auto;
+  background-color: #a4fff7;
+}
+
+.imageOne, .imageTwo, .imageThree {
+  width: 300px;
+  float: left;
+  margin: 10px;
+  display: inline-block;
+}
+
+div {
+  display: inline-block;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  border: 2px solid blue;
+  margin: 25px;
+}
+
+h1 {
+  color: #e8672c;
+  font-style: oblique;
+}
+
+p {
+  font-size: 18px;
+  font-style: serif;
+}
+
+header {
+  background-color: #2dd9ff;
+}
